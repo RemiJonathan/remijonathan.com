@@ -1,7 +1,6 @@
 /*
 	Remi Jonathan Choquette
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
+	remijonathan.com | contact@remijonathan.com
 */
 
 (function($) {
